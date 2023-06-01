@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/perush12" target="blank"><img src="https://img.shields.io/twitter/follow/perush12?logo=twitter&style=for-the-badge" alt="perush12" /></a> </p>
 
-- 🔭 I’m currently working on **Actually would love to work with you**
+- 🔭 I **Actually would love to work with you.**
 
 - 🌱 I’m currently learning **PowerBI, Inferential Statistics and Machine Learning**
 
