@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Actually would love to work with you**
 
-- 🌱 I’m currently learning **PowerBI, Inferential Statistics, Machine Learning**
+- 🌱 I’m currently learning **PowerBI, Inferential Statistics and Machine Learning**
 
-- 💬 Ask me about **Excel, Python**
+- 💬 Ask me about **Excel & Python.**
 
 - 📫 How to reach me **perushparajuli@gmail.com**
 
