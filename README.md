@@ -1,6 +1,6 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F1400_opt_1%2F6c0f9b95746151.5e9ecde69599e.gif&f=1&nofb=1&ipt=2ef42c9e3a39ccaf5846dd53ae54b201845af1767ea8ef3b4624ca487c2287c4&ipo=images)]
 <h1 align="center">Hi 👋, I'm Perush Parajuli</h1>
-<h3 align="center">Have you Ever seen an Evergrowing tree?, If you know me you'll know that I'm such a person.</h3>
+<h3 align="center">Have you Ever seen an Evergrowing tree? <br> It Always Grows.</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FDistantSoggyAlbacoretuna-size_restricted.gif&f=1&nofb=1&ipt=26bafefb5a1807a9038a686e85e36589e1faf0a1625de51a235214f04b6e8b70&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perushparajuli&label=Profile%20views&color=0e75b6&style=flat" alt="perushparajuli" /> </p>
@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="Excel" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perushparajuli&show_icons=true&locale=en&layout=compact" alt="perushparajuli" /></p>
 
