@@ -4,7 +4,7 @@
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F1400_opt_1%2F6c0f9b95746151.5e9ecde69599e.gif&f=1&nofb=1&ipt=2ef42c9e3a39ccaf5846dd53ae54b201845af1767ea8ef3b4624ca487c2287c4&ipo=images" alt="MasterHead" />
 </p>
 
-<h2 align="center">I have a tendency to lie a lot because I believe that the lies I tell are future truths that I foretell.</h2>
+<h3 align="center">I have a tendency to be truthful as I believe that even the lies I tell are future truths that I foretell.</h3>
 
 <p align="center">
   <a href="https://twitter.com/perush12" target="_blank">
