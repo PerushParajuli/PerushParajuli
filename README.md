@@ -21,7 +21,7 @@
 
 <p align="center">I am an enthusiastic individual with a strong passion for learning and a keen interest in data analysis and machine learning. While I currently do not possess some of the specific skills mentioned in the profile, I am highly motivated to acquire them and build a successful career in the field.</p>
 
-<p align="center">I am committed to continuous growth and development, and I am actively seeking opportunities to expand my knowledge and gain practical experience in data analysis, Python programming, and other relevant areas. I believe in the power of data-driven decision making and its potential to drive meaningful insights and positive outcomes.</p>
+<p align="center">I am committed to continuous growth and development, and I am actively seeking opportunities to expand my knowledge and gain practical experience in data analysis, Python programming, and other relevant areas. I believe in the power of data-driven decision-making and its potential to drive meaningful insights and positive outcomes.</p>
 
 <h2 align="center">Skills and Tools</h2>
 
@@ -52,7 +52,7 @@
 
 <h2 align="center">Additional Information</h2>
 
-<p align="center">While I am currently in the process of acquiring the necessary skills such as Machine Learning, I am open to collaboration and learning opportunities. If you have any projects or initiatives related to data analysis or even some basic Web-Developmet where I can contribute and grow, please feel free to reach out to me.</p>
+<p align="center">While I am currently in the process of acquiring the necessary skills such as Machine Learning, I am open to collaboration and learning opportunities. If you have any projects or initiatives related to data analysis or even some basic Web Development where I can contribute and grow, please feel free to reach out to me.</p>
 
 <p align="center">I am dedicated to investing the time and effort required to become proficient in the relevant tools and techniques. I look forward to connecting with like-minded individuals and organizations who share a passion for leveraging data for impactful insights and innovation.</p>
 
