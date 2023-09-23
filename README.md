@@ -7,7 +7,7 @@
 <h3 align="center">I have a tendency to be truthful as I believe that even the lies I tell are future truths that I foretell.</h3>
 
 <p align="center">
-  <a href="https://twitter.com/perush12" target="_blank">
+  <a [href="https://twitter.com/perush12](https://twitter.com/PerushTheSeeker)" target="_blank">
     <img src="https://img.shields.io/twitter/follow/perush12?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/@perush-parajuli" target="_blank">
