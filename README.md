@@ -33,8 +33,9 @@
       <li>Excel (Advance)</li>
       <li>SQL (Advance)</li>
       <li>Python (Intermediate)</li>
-      <li>PowerBI (Good Familarity)</li>
+      <li>PowerBI (Decent Familarity)</li>
       <strong><li>Machine Learning (NULL)</li></strong>
+      <strong><li>Apache Spark (NULL)</li></strong>
     </ul>
   </em>
 </p>
@@ -47,7 +48,7 @@
       <li>HTML/CSS (Intermediate)</li>
       <li>Javascript (Good Familarity)</li>
       <li>Bootstrap (Intermediate)</li>
-      <li>Django (NULL)</li>
+      <strong><li>Django (NULL)</li></strong>
     </ul>
   </em>
 </p>
