@@ -19,23 +19,35 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">I am an enthusiastic individual with a strong passion for learning and a keen interest in data analysis and machine learning. While I currently do not possess some of the specific skills mentioned in the profile, I am highly motivated to acquire them and build a successful career in the field.</p>
+<p align="left">My interest in computer-related matters started when I was young. I would spend a significant amount of time playing games and tinkering with my computer, which had that ancient Windows XP installed on it. While attempting to fix the things I broke, I gradually developed a passion for them. Additionally, I would tinker with old phones, spending hours trying to unlock locked devices, which I beleive no one would do if it didn't excit them to a fanatical degree.</p>
 
-<p align="left">I am committed to continuous growth and development, and I am actively seeking opportunities to expand my knowledge and gain practical experience in data analysis, Python programming, and other relevant areas. I believe in the power of data-driven decision-making and its potential to drive meaningful insights and positive outcomes.</p>
+<p align="left">I am currently very passionate on learning with a keen interest in data science and machine learning. While I currently do not possess the skills that would make some one a qualified data scientist, I'm eager to aquire them.</p>
 
-<h2 align="center">Skills and Tools</h2>
+<p align="left">I also am actively seeking opportunities to expand my knowledge and gain practical experience in data analysis, Python programming, SQL, Mathematics and other relevant areas.</p>
 
-<p align="center">
+<h2 align="center">Data Related Skill</h2>
+
+<p align="Left">
   <em>
     <ul> 
-      <li>Python</li>
-      <li>Excel</li>
-      <li>PowerBI</li>
-      <li>SQL</li>
-      <li>HTML/CSS</li>
-      <li>Javascript</li>
-      <li>Bootstrap</li>
-      <li>Machine Learning</li>
+      <li>Excel (Advance)</li>
+      <li>SQL (Advance)</li>
+      <li>Python (Intermediate)</li>
+      <li>PowerBI (Good Familarity)</li>
+      <strong><li>Machine Learning (NULL)</li></strong>
+    </ul>
+  </em>
+</p>
+
+<h2 align="center">Web Development Related Skill</h2>
+
+<p align="right">
+  <em>
+    <ul> 
+      <li>HTML/CSS (Intermediate)</li>
+      <li>Javascript (Good Familarity)</li>
+      <li>Bootstrap (Intermediate)</li>
+      <li>Django (NULL)</li>
     </ul>
   </em>
 </p>
