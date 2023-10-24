@@ -31,11 +31,14 @@
   <em>
     <ul> 
       <li>Excel (Advance)</li>
-      <li>SQL (Advance)</li>
+      <li>SQL (Intermediate)</li>
       <li>Python (Intermediate)</li>
       <li>PowerBI (Decent Familarity)</li>
+      <li>Mathematics (Learning...)</li>
       <strong><li>Machine Learning (NULL)</li></strong>
       <strong><li>Apache Spark (NULL)</li></strong>
+      <br>
+      <p>Currently Focusing: Python Projects, SQL 'Data Manipulation', Mathematics 'Algebra'</p>
     </ul>
   </em>
 </p>
