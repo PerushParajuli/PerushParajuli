@@ -1,4 +1,4 @@
-<h1 align="center">Hey, It's Perush👋</h1>
+<h1 align="center">Perush desu👋</h1>
 
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F1400_opt_1%2F6c0f9b95746151.5e9ecde69599e.gif&f=1&nofb=1&ipt=2ef42c9e3a39ccaf5846dd53ae54b201845af1767ea8ef3b4624ca487c2287c4&ipo=images" alt="MasterHead" />
