@@ -33,12 +33,14 @@
       <li>Excel (Advance)</li>
       <li>SQL (Intermediate)</li>
       <li>Python (Intermediate)</li>
-      <li>PowerBI (Decent Familarity)</li>
+      <li>PowerBI (Good Familarity)</li>
       <li>Mathematics (Learning...)</li>
       <strong><li>Machine Learning (NULL)</li></strong>
-      <strong><li>Apache Spark (NULL)</li></strong>
+      <strong><li>Deep Learning (NULL)</li></strong>
+      <strong><li>NLP (NULL)</li></strong>
+      <strong><li> MLOPS (Machine Learning Operation) (NULL)</li></strong>
       <br>
-      <p>Currently Focusing: Python Projects, SQL 'Data Manipulation', Mathematics 'Algebra'</p>
+      <p>Currently Focusing: Projects, SQL Intermediate, Mathematics 'Algebra/ Calculus'</p>
     </ul>
   </em>
 </p>
@@ -50,9 +52,13 @@
     <ul> 
       <li>HTML/CSS (Intermediate)</li>
       <li>Javascript (Good Familarity)</li>
-      <li>Bootstrap (Intermediate)</li>
-      <strong><li>Django (NULL)</li></strong>
+      <li>Bootstrap (Good Familarity)</li>
+      <li>WebFlow/ Figma (NULL) </li>
+      <strong><li>Svelte (NULL)</li></strong>
+      <strong><li>SvelteKit (NULL)</li></strong>
     </ul>
+    <br>
+    <p>I'm focusing on triggering my creative side with the Front-end, with a decent amount of familiarity with backend</p>
   </em>
 </p>
 
