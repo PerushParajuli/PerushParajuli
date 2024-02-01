@@ -55,7 +55,7 @@
       <li>Bootstrap (Good Familarity)</li>
       <li>WebFlow/ Figma (NULL) </li>
       <strong><li>Svelte (NULL)</li></strong>
-      <strong><li>SvelteKit (NULL)</li></strong>
+      <strong><li>Django (NULL)</li></strong>
     </ul>
     <br>
     <p>I'm focusing on triggering my creative side with the Front-end, with a decent amount of familiarity with backend</p>
