@@ -30,17 +30,16 @@
 <p align="Left">
   <em>
     <ul> 
-      <li>Excel (Advance)</li>
-      <li>SQL (Intermediate)</li>
-      <li>Python (Intermediate)</li>
-      <li>PowerBI (Good Familarity)</li>
-      <li>Mathematics (Learning...)</li>
-      <strong><li>Machine Learning (NULL)</li></strong>
-      <strong><li>Deep Learning (NULL)</li></strong>
-      <strong><li>NLP (NULL)</li></strong>
-      <strong><li> MLOPS (Machine Learning Operation) (NULL)</li></strong>
+      <li>Excel</li>
+      <li>SQL</li>
+      <li>Python</li>
+      <li>PowerBI</li>
+      <li>Mathematics</li>
+      <strong><li>Machine Learning</li></strong>
+      <strong><li>Deep Learning</li></strong>
+      <strong><li>NLP</li></strong>
+      <strong><li> MLOPS (Machine Learning Operation)</li></strong>
       <br>
-      <p>Currently Focusing: Projects, SQL Intermediate, Mathematics 'Algebra/ Calculus'</p>
     </ul>
   </em>
 </p>
