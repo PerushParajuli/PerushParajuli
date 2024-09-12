@@ -49,12 +49,13 @@
 <p align="right">
   <em>
     <ul> 
-      <li>HTML/CSS (Intermediate)</li>
-      <li>Javascript (Good Familarity)</li>
-      <li>Bootstrap (Good Familarity)</li>
-      <li>WebFlow/ Figma (NULL) </li>
-      <strong><li>Svelte (NULL)</li></strong>
-      <strong><li>Django (NULL)</li></strong>
+      <li>HTML/CSS</li>
+      <li>TailwindCss (Good Familarity)</li>
+      <strong><li>React</li></strong>
+      <strong><li>NextJs</li></strong>
+      <strong>ThreeJs</strong>
+      <strong>framer Motion</strong>
+      <strong>NodeJs</strong>
     </ul>
     <br>
     <p>I'm focusing on triggering my creative side with the Front-end, with a decent amount of familiarity with backend</p>
