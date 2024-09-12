@@ -51,11 +51,11 @@
     <ul> 
       <li>HTML/CSS</li>
       <li>TailwindCss (Good Familarity)</li>
-      <strong><li>React</li></strong>
-      <strong><li>NextJs</li></strong>
-      <strong>ThreeJs</strong>
-      <strong>framer Motion</strong>
-      <strong>NodeJs</strong>
+     <li> <strong>React</strong></li>
+      <li><strong>NextJs</strong></li>
+      <li><strong>ThreeJs</strong></li>
+      <li><strong>framer Motion</strong></li>
+      <li><strong>NodeJs</strong></li>
     </ul>
     <br>
     <p>I'm focusing on triggering my creative side with the Front-end, with a decent amount of familiarity with backend</p>
