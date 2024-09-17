@@ -7,9 +7,6 @@
 <h3 align="center">I have a tendency to be truthful as I believe that even the lies I tell are future truths that I foretell.</h3>
 
 <p align="center">
-  <a [href="https://twitter.com/perush12](https://twitter.com/PerushTheSeeker)" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/perushTheSeeker?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
   <a href="https://linkedin.com/in/@perush-parajuli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%40perush%20parajuli-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
@@ -19,48 +16,27 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">My interest in computer-related matters started when I was young. I would spend a significant amount of time playing games and tinkering with my computer, which had that ancient Windows XP installed on it. While attempting to fix the things I broke, I gradually developed a passion for them. Additionally, I would tinker with old phones, spending hours trying to unlock locked devices, which I beleive no one would do if it didn't excit them to a fanatical degree.</p>
+<p align="left"Hey there! I’m a Front-end Developer with a knack for blending innovative design with technical prowess. Right now, my focus is on crafting exceptional user experiences using React.js, Three.js, and Next.js, and I’m pretty skilled with Tailwind CSS and Framer Motion to make things pop.
+
+🔧 Skills & Expertise:
+
+👨🏽‍💻 As a Front-end Engineer:
+I wield mastery in HTML, CSS, JavaScript, React.js, Three.js, Next.js, Tailwind CSS, shadcn UI and Framer Motion, Crafting captivating web applications that resonate with users. My creating prowess extend to 3D web development with ThreeJs and Blender. I bring Ideas to Life. I also have some knowledge of backend technologies like Node.js, Express.js and NestJS and able to use them to basic level.
+
+🔭 Data Science & AI:
+Currently eyeing a specialization in Convolutional Neural Networks (CNN).
+
+I love turning complex problems into elegant solutions, whether it's developing interactive 3D visuals, responsive UIs, or integrating AI models into web applications. My goal is to build web apps that are not only functional but also a joy to use.
+
+🔍 What Drives Me:
+ I’m all about solving challenges and pushing the envelope of what’s possible. Whether it's crafting sleek interfaces, diving into data science, or integrating AI models, I’m dedicated to delivering top-notch results.
+
+🌐 Let’s Connect:
+I’m always eager to connect with fellow tech enthusiasts, professionals, or anyone who’s passionate about innovation. If you’re up for a chat about potential collaborations, tech trends, or just want to share insights, don’t hesitate to reach out!</p>
 
 <p align="left">I am currently very passionate on learning, with a keen interest in data science and machine learning. While I currently do not possess the skills that would make some one a qualified data scientist, I'm eager to aquire them.</p>
 
 <p align="left">I also am actively seeking opportunities to expand my knowledge and gain practical experience in data analysis, Python programming, SQL, Mathematics and other relevant areas.</p>
-
-<h2 align="center">'Data' Related Skills</h2>
-
-<p align="Left">
-  <em>
-    <ul> 
-      <li>Excel</li>
-      <li>SQL</li>
-      <li>Python</li>
-      <li>PowerBI</li>
-      <li>Mathematics</li>
-      <strong><li>Machine Learning</li></strong>
-      <strong><li>Deep Learning</li></strong>
-      <strong><li>NLP</li></strong>
-      <strong><li> MLOPS (Machine Learning Operation)</li></strong>
-      <br>
-    </ul>
-  </em>
-</p>
-
-<h2 align="center">'Web Development' Related Skills</h2>
-
-<p align="right">
-  <em>
-    <ul> 
-      <li>HTML/CSS</li>
-      <li>TailwindCss (Good Familarity)</li>
-     <li> <strong>React</strong></li>
-      <li><strong>NextJs</strong></li>
-      <li><strong>ThreeJs</strong></li>
-      <li><strong>framer Motion</strong></li>
-      <li><strong>NodeJs</strong></li>
-    </ul>
-    <br>
-    <p>I'm focusing on triggering my creative side with the Front-end, with a decent amount of familiarity with backend</p>
-  </em>
-</p>
 
 <h2 align="center">Contact Me</h2>
 
