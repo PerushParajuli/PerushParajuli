@@ -1,9 +1,8 @@
 <h1 align="center">Hey, I'm Perush 👋</h1>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtmNHR0cHRtMTh5ZHJudXJpcXdrczgxNzVkcHBsazMxa2Z5NXhwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" alt="GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ3bjk1eW51OGFpd2d3M2dzb3Q4N2NxMnJqYTBwMzJtbHVrMmwxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" />
 </div>
-
 
 ---
 
