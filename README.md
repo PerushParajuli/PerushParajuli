@@ -1,9 +1,8 @@
 <h1 align="center">Hey, I'm Perush 👋</h1>
 
-<div align="center" style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <a src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></a>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtmNHR0cHRtMTh5ZHJudXJpcXdrczgxNzVkcHBsazMxa2Z5NXhwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" alt="GIF" />
 </div>
-<p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
 
 
 ---
