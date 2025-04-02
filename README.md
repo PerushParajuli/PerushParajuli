@@ -8,22 +8,22 @@
 
 ## 🚀 About Me  
 
-I'm a **MERN Stack Developer** with a passion for **building intuitive, scalable, and performant web applications.**  
+I'm a **MERN Stack Developer** passionate about **building intuitive, scalable, and high-performance web applications.**  
 Currently, I'm focused on:  
-✅ **React.js, Tailwind CSS, Framer Motion** – Crafting smooth, dynamic user experiences  
-✅ **Node.js, Express.js, MongoDB** – Structuring robust backends  
-✅ **Three.js & Blender** – Exploring interactive 3D web development  
-✅ **Mathematics & Machine Learning** – Preparing for future specialization  
+✅ **React.js, Tailwind CSS, Framer Motion** – Creating smooth, interactive UI/UX  
+✅ **Node.js, Express.js, MongoDB** – Building robust, scalable backends  
+✅ **Mathematics & Machine Learning** – Preparing for advanced studies  
 
-💡 **I love creating projects that solve real problems and push my skills further.**  
+💡 **I love solving real-world problems through code and continuously pushing my limits.**  
 
 ---
 
 ## 🔨 Technologies & Tools  
 
-- **Frontend:** React.js, Tailwind CSS, Framer Motion, Three.js  
+- **Frontend:** React.js, Tailwind CSS, Framer Motion  
 - **Backend:** Node.js, Express.js, MongoDB  
-- **Other Tools:** Git, Postman, PostgreSQL, Blender  
+- **Database:** PostgreSQL  
+- **Other Tools:** Git, Postman  
 
 ---
 
@@ -33,12 +33,12 @@ Currently, I'm focused on:
 A platform to organize and track study materials efficiently.  
 
 💡 **Upcoming Projects:**  
-- **Manga/Anime/Novel Hub** – A platform for reading and watching content seamlessly  
+- **Manga/Anime/Novel Hub** – A seamless reading & watching platform  
 - **Meditation App** – A guide to various meditation techniques  
 - **Step Counter App** – GPS tracking, calorie counting, and smart route suggestions  
 - **Audio Novel Website** – High-quality narrations for immersive storytelling  
 
-> 🏆 My goal is to **build, launch, and monetize** these projects for passive income.  
+> 🏆 **Goal:** Build, launch, and monetize these projects for passive income.  
 
 ---
 
