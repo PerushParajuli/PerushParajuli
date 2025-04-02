@@ -21,8 +21,7 @@ Currently, I'm focused on:
 ## 🔨 Technologies & Tools  
 
 - **Frontend:** React.js, Tailwind CSS, Framer Motion  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Database:** PostgreSQL  
+- **Backend:** Node.js, Express.js, MongoDB
 - **Other Tools:** Git, Postman  
 
 ---
@@ -33,10 +32,11 @@ Currently, I'm focused on:
 A platform to organize and track study materials efficiently.  
 
 💡 **Upcoming Projects:**  
-- **Manga/Anime/Novel Hub** – A seamless reading & watching platform  
-- **Meditation App** – A guide to various meditation techniques  
-- **Step Counter App** – GPS tracking, calorie counting, and smart route suggestions  
-- **Audio Novel Website** – High-quality narrations for immersive storytelling  
+- **Manga/Anime/Novel Webapp** – A seamless reading & watching platform
+- **Audio Novel Webapp** – High-quality narrations for immersive storytelling   
+- **Meditation Webapp** – A guide to various meditation techniques  
+- **Step Counter Mobile App** – GPS tracking, calorie counting, and smart route suggestions  
+ 
 
 > 🏆 **Goal:** Build, launch, and monetize these projects for passive income.  
 
