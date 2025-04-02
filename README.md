@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Perush 👋</h1>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif" alt="MasterHead" />
+  <iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
 </p>
 
 ---
