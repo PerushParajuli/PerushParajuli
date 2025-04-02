@@ -45,7 +45,7 @@ A platform to organize and track study materials efficiently.
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perushparajuli" alt="GitHub Streak" />
+  [![Perush's GitHub stats](https://github-readme-stats.vercel.app/api?username=perushparajuli)](https://github.com/perushparajuli)
 </p>
 
 <p align="Right">
