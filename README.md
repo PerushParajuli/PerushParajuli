@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Perush 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=perushparajuli&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ3bjk1eW51OGFpd2d3M2dzb3Q4N2NxMnJqYTBwMzJtbHVrMmwxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" />
@@ -44,10 +45,8 @@ A platform to organize and track study materials efficiently.
 
 ## 📈 GitHub Stats  
 
-[![Perush's GitHub stats](https://github-readme-stats.vercel.app/api?username=perushparajuli)](https://github.com/perushparajuli) 
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=perushparajuli)](https://github.com/perushparajuli/github-readme-stats)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=perushparajuli&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=perushparajuli&theme=darkhub&margin-w=10&no-bg=true" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perushparajuli&layout=compact&theme=radical" alt="Top Languages" /> </p> 
+  
 ---
 
 ## 📬 Connect With Me  
