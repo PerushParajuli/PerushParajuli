@@ -45,8 +45,10 @@ A platform to organize and track study materials efficiently.
 
 ## 📈 GitHub Stats  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=perushparajuli&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=perushparajuli&theme=darkhub&margin-w=10&no-bg=true" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perushparajuli&layout=compact&theme=radical" alt="Top Languages" /> </p> 
-  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerushParajuli&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="PerushParajuli's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PerushParajuli&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="PerushParajuli's GitHub Stats" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PerushParajuli" alt="GitHub Streak" /></a>
 ---
 
 ## 📬 Connect With Me  
