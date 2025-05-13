@@ -11,7 +11,7 @@
 
 I'm a **MERN Stack Developer** passionate about **building intuitive, scalable, and high-performance web applications.**  
 Currently, I'm focused on:  
-✅ **React.js, Tailwind CSS, Framer Motion** – Creating smooth, interactive UI/UX  
+✅ **React.js, Tailwind CSS** – Creating smooth, interactive UI/UX  
 ✅ **Node.js, Express.js, MongoDB** – Building robust, scalable backends  
 ✅ **Mathematics & Machine Learning** – Preparing for advanced studies  
 
